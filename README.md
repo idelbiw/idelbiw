@@ -10,5 +10,4 @@
 
 - ⚡ - Fun fact: I'm better than you at Smash Bros. 😏
 - 😁 - Usually for fun I'm either playing video games, watching anime, or just hanging out with friends or family
-- 💬 - Ask me about weight loss, I actually the real answers and not some bs advice. 
--      Short answer is that it's all about calories.
+- 💬 - Ask me about weight loss, I actually the real answers and not some bs advice. (short answer is that it's all about calories)
