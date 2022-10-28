@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 
-- 📲 - iOS Software Developer who's obsessed with making apps where the user experience comes first!
-- 🔭 - I’m currently working on a calorie tracking app
-- 🧑‍💻 - I mainly work with Swift, but I can also work with Obj-C, SwiftUI, and Python
+- 📲 - iOS Developer!
+- 🧑‍💻 - I'm all about native iOS work, so I mainly work with Swift and Obj-C.
+- 🔭 - Currently working on a calorie tracking app
 - 📫 - How to reach me: idelbiw@gmail.com
 
 - ﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣
 
 - ⚡ - Fun fact: I'm better than you at Smash Bros. 😏
-- 😁 - Usually for fun I'm either playing video games, watching anime, or just hanging out with friends or family
-- 💬 - Ask me about weight loss, I actually the real answers and not some bs advice. (short answer is that it's all about calories)
