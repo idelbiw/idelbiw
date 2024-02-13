@@ -6,7 +6,3 @@
 - 😁 - Check out my Calorie Tracker App! 
 - https://apps.apple.com/us/app/calorie-tracker-counter/id6444231342
 - 📫 - How to reach me: idelbiw@gmail.com
-
-- ﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣﹣
-
-- ⚡ - Fun fact: I'm better than you at Smash Bros. 😏
